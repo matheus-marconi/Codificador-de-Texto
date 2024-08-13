@@ -8,10 +8,11 @@ Este projeto foi desenvolvido visando promover o aprendizado prático e a aplica
 ______________________________________________________________________________________________________________________________________________
 🛠️ Tecnologias Utilizadas
 
-Linguagem de Programação: html, css e js
+Linguagem de Programação: ![image](https://github.com/user-attachments/assets/a05709de-2b9a-4c45-b6e9-5e7e8790ac7b)
+html, css e js
 
 Ferramentas de Desenvolvimento:
-vscode Visual Studio Code
+Visual Studio Code
 
 _______________________________________________________________________________________________________________________________________________
 Autor: Matheus Marconi Santos
