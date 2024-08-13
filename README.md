@@ -10,13 +10,14 @@ ________________________________________________________________________________
 
 Linguagem de Programação:
 ![image](https://github.com/user-attachments/assets/054159d0-177e-441f-8745-ab3207310189)
-                                    HTML,
+HTML,
 ![image](https://github.com/user-attachments/assets/401e3058-5b16-4828-89b4-42b50b85e964)
 CSS e 
 ![image](https://github.com/user-attachments/assets/2ffc38da-b68e-4402-836a-b675b1826ada)
 js
 
 Ferramentas de Desenvolvimento:
+![image](https://github.com/user-attachments/assets/2c4b688e-fbed-46d8-84b8-a2900e52bb7d)
 Visual Studio Code
 
 _______________________________________________________________________________________________________________________________________________
