@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+:root {
+    --corprincipal: darkblue;
+}
+
+body {
+    background-color: #E8E8E8;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Rubik', sans-serif;
+}
+
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    padding: 2%;
+}
+
+.cabecalho img {
+    max-width: 70px;
+    max-height: 70px;
+    width: auto;
+    height: auto;
+}
+
+.container-input {
+    display: flex;
+    justify-content: space-between;
+    padding: 2% 0 0 4%;
+}
+
+.input p {
+    margin: 20px 0 0 40px;
+}
+
+.input img {
+    height: 16px;
+    width: 16px;
+    margin: 0 0 -40px -355px;
+}
+
+#input-texto {
+    width: 345px;
+    height: 330px;
+    font-size: 20px;
+    color: var(--corprincipal);
+    background: transparent;
+    box-shadow: none;
+    border: none;
+    resize: none;
+    outline: 0;
+    padding: 10px;
+}
+
+::-webkit-input-placeholder {
+    color: var(--corprincipal);
+}
+
+#output {
+    display: flex;
+    flex-direction: column;
+    border: 3px none var(--corprincipal);
+    border-radius: 20px;
+    width: 350px;
+    height: 420px;
+    margin-right: 3%;
+    background-color: white;
+}
+
+#output-texto {
+    width: 345px;
+    height: 330px;
+    font-size: 20px;
+    color: var(--corprincipal);
+    background: transparent;
+    box-shadow: none;
+    border: none;
+    resize: none;
+    outline: 0;
+    padding: 10px;
+}
+
+#output h2 {
+    text-align: center;
+    font-size: 25px;
+
+}
+
+#output span {
+    font-size: 16px;
+    text-align: center;
+    font-weight: 300;
+    margin-top: 16px;
+}
+
+#output img {
+    max-width: 300px;
+    max-height: 300px;
+    width: auto;
+    height: auto;
+    margin-top: 4%;
+}
+
+.container-btn button {
+    border: 2px solid var(--corprincipal);
+    border-radius: 20px;
+    text-decoration: none;
+    width: 328px;
+    height: 50px;
+    margin-left: 4%;
+    cursor: pointer;
+}
+
+.btn-criptografar {
+    background-color: var(--corprincipal);
+    color: #D8DFE8;
+}
+
+.btn-descriptografar {
+    color: var(--corprincipal);
+    background-color: #D8DFE8;
+}
+
+.btn-copiar {
+    border: 2px solid var(--corprincipal);
+    border-radius: 10px;
+    text-decoration: none;
+    color: var(--corprincipal);
+    width: 150px;
+    height: 50px;
+    margin-bottom: 10%;
+    margin-left: 30%;
+    cursor: pointer;
+}
+
+.rodape {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 21px;
+    margin-top: 25px;
+    background: lightgray;
+    color: var(--corprincipal);
+}
+
+.rodape h3 {
+    font-size: 16px;
+}

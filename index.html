@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Codificador de texto</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="imagens/Vector.jpg" type="image/x-icon">
+</head>
+
+<body>
+    <main>
+        <header class="cabecalho">
+            <img src="imagens/Vector.jpg" alt="logo Alura">
+        </header>
+        <div class="container-input">
+            <div class="input">
+                <textarea id="input-texto" placeholder="Digite seu texto"></textarea>
+                <img src="/imagens/bi_exclamation-circle-fill.jpg" alt="logo atencao">
+                <p>ATENÇÃO: Apenas letras minusculas e sem acento!</p>
+            </div>
+            <div id="output">
+                <img src="imagens/High quality products 1 1.jpg" alt="logo boneca">
+                <h2>Nenhuma mensagem encontrada</h2>
+                <span>Digite um texto que você deseja<br> criptografar ou descriptografar.</span>
+            </div>
+        </div>
+        <div class="buttons">
+            <div class="container-btn">
+                <button onclick="criptografar()" class="btn-criptografar">Criptografar</button>
+                <button onclick="descriptografar()" class="btn-descriptografar">Descriptografar</button>
+            </div>
+        </div>
+    </main>
+    <footer class="rodape">
+        <h3>Desenvolvido por Matheus Marconi Santos</h3>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
