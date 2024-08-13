@@ -8,7 +8,7 @@ Este projeto foi desenvolvido visando promover o aprendizado prático e a aplica
 ______________________________________________________________________________________________________________________________________________
 🛠️ Tecnologias Utilizadas
 
-Linguagem de Programação: ![image](https://github.com/user-attachments/assets/a05709de-2b9a-4c45-b6e9-5e7e8790ac7b)
+Linguagem de Programação: ![image](https://github.com/user-attachments/assets/a03f6ed0-49fa-4f7e-a67b-a707c5e47646)
 html, css e js
 
 Ferramentas de Desenvolvimento:
