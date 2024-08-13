@@ -11,9 +11,9 @@ ________________________________________________________________________________
 Linguagem de Programação:
 ![image](https://github.com/user-attachments/assets/054159d0-177e-441f-8745-ab3207310189)
 HTML, 
-![image](https://github.com/user-attachments/assets/5fcc5945-fd5d-4c80-a77b-69f2b489941c)
+![image](https://github.com/user-attachments/assets/401e3058-5b16-4828-89b4-42b50b85e964)
 CSS e 
-![image](https://github.com/user-attachments/assets/77dd176a-bcff-4e72-9a87-8137c3f46f5c)
+![image](https://github.com/user-attachments/assets/2ffc38da-b68e-4402-836a-b675b1826ada)
 js
 
 Ferramentas de Desenvolvimento:
