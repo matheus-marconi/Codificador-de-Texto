@@ -9,7 +9,8 @@ ________________________________________________________________________________
 🛠️ Tecnologias Utilizadas
 
 Linguagem de Programação:
-![image](https://github.com/user-attachments/assets/68ee3c9b-35bd-4b43-b4a3-0d4e0f1a2e80) HTML, 
+![image](https://github.com/user-attachments/assets/054159d0-177e-441f-8745-ab3207310189)
+ HTML, 
 css e js
 
 Ferramentas de Desenvolvimento:
