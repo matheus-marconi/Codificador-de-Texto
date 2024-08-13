@@ -8,8 +8,9 @@ Este projeto foi desenvolvido visando promover o aprendizado prático e a aplica
 ______________________________________________________________________________________________________________________________________________
 🛠️ Tecnologias Utilizadas
 
-Linguagem de Programação: ![image](https://github.com/user-attachments/assets/a03f6ed0-49fa-4f7e-a67b-a707c5e47646)
-html, css e js
+Linguagem de Programação:
+![image](https://github.com/user-attachments/assets/68ee3c9b-35bd-4b43-b4a3-0d4e0f1a2e80) HTML, 
+css e js
 
 Ferramentas de Desenvolvimento:
 Visual Studio Code
