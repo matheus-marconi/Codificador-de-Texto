@@ -9,12 +9,12 @@ ________________________________________________________________________________
 🛠️ Tecnologias Utilizadas
 
 Linguagem de Programação:
-<p>![image](https://github.com/user-attachments/assets/054159d0-177e-441f-8745-ab3207310189)
-HTML</p>
-<p>![image](https://github.com/user-attachments/assets/401e3058-5b16-4828-89b4-42b50b85e964)
-CSS</p>
-<p>![image](https://github.com/user-attachments/assets/2ffc38da-b68e-4402-836a-b675b1826ada)
-js</p>
+![image](https://github.com/user-attachments/assets/054159d0-177e-441f-8745-ab3207310189)
+<p>HTML</p>
+![image](https://github.com/user-attachments/assets/401e3058-5b16-4828-89b4-42b50b85e964)
+CSS
+![image](https://github.com/user-attachments/assets/2ffc38da-b68e-4402-836a-b675b1826ada)
+js
 
 Ferramentas de Desenvolvimento:
 ![image](https://github.com/user-attachments/assets/2c4b688e-fbed-46d8-84b8-a2900e52bb7d)
